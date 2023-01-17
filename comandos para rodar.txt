@@ -1,0 +1,4 @@
+na tela inicial, executar:
+npx tsx src/server.ts (na pasta ignite)
+npx prisma studio (na pasta ignite)
+npm run dev (na pasta web)
